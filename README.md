@@ -1,7 +1,9 @@
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)&nbsp;
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)&nbsp;
+<div>
+ <a href="https://www.linkedin.com/in/pauloeliass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https:/instagram.com/joyboyverso" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https:/twitch.tv/joyboyverso" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https:/twitter.com/joyboyverso" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+</div>
 
 # Welcome and thanks for visiting my profile! 🖤
 
