@@ -32,6 +32,14 @@ Hi there, as you should know already (I hope) my name is Paulo Elias and I'm kno
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)&nbsp;
 
+## Projects 👷‍♂️:
+Here I'll post some of my coolest projects so please, take a look! (I'll update this list time to time):
+
+- [MARIO ENDLESS RUNNER LIKE JS GAME](https://github.com/pauloeliass/pauloeliass/jogo-js)<br>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
 ## A little more about me 👾:
 
 - Audiovisual Producer 🎬
